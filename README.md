@@ -1,2 +1,2 @@
 # XamReactiveUiDemo
-this is a demo for reactiveui 
+this is a sample demo for reactiveui with Xamarin.forms.
