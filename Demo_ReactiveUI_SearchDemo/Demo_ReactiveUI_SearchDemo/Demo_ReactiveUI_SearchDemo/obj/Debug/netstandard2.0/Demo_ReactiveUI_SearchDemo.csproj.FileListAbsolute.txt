@@ -1,0 +1,13 @@
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\bin\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.deps.json
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\bin\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.dll
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\bin\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.pdb
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\obj\Debug\netstandard2.0\Views\EmployeesPage.xaml.g.cs
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\obj\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\obj\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.AssemblyInfoInputs.cache
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\obj\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.AssemblyInfo.cs
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\obj\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.dll
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\obj\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.pdb
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\obj\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.csprojAssemblyReference.cache
+C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\obj\Debug\netstandard2.0\Views\EmployeePage.xaml.g.cs
