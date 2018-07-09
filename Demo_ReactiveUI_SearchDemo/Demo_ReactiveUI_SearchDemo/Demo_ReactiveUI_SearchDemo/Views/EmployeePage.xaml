@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui:BaseContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Demo_ReactiveUI_SearchDemo.Views.EmployeePage"
+             xmlns:ui="clr-namespace:Demo_ReactiveUI_SearchDemo.Views"
+             xmlns:rxui="clr-namespace:ReactiveUI.XamForms;assembly=ReactiveUI.XamForms"
+             xmlns:vm="clr-namespace:Demo_ReactiveUI_SearchDemo.ViewModel"
+             x:TypeArguments="vm:SingleEmployeeViewModel">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding SelectedEmployee.Id}"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text="{Binding SelectedEmployee.Title}"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text="{Binding SelectedEmployee.FullName}"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text="{Binding SelectedEmployee.Department}"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ui:BaseContentPage>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui:BaseContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Demo_ReactiveUI_SearchDemo.Views.EmployeesPage"
+             xmlns:ui="clr-namespace:Demo_ReactiveUI_SearchDemo.Views"
+             xmlns:rxui="clr-namespace:ReactiveUI.XamForms;assembly=ReactiveUI.XamForms"
+             xmlns:vm="clr-namespace:Demo_ReactiveUI_SearchDemo.ViewModel"
+             x:TypeArguments="vm:EmployeeViewModel">
+    <ContentPage.Content>
+        <Grid   Padding="5" Grid.Row="2">
+            <StackLayout>
+                
+                <Entry HorizontalOptions="FillAndExpand" Placeholder="Enter employee Id"    Text="{Binding SearchText,Mode=TwoWay}"/>
+                <ListView  SelectedItem="{Binding SelectedEmployee,Mode=TwoWay}"  ItemsSource="{Binding Employees}" BackgroundColor="Transparent" SeparatorVisibility="None" RowHeight="100">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid>
+                                    <StackLayout>
+                                        <Label Text="{Binding Title}" />
+                                        <Label Text="{Binding Department}" />
+                                        <Label Text="{Binding FullName}" />
+                                        <Label Text="{Binding Id}" />
+                                    </StackLayout>
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ui:BaseContentPage>
