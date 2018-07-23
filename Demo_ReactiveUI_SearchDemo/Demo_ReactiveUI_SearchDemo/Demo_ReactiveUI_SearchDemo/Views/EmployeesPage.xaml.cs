@@ -1,4 +1,4 @@
-﻿using Demo_ReactiveUI_SearchDemo.ViewModel;
+﻿using Demo_ReactiveUI_SearchDemo.ViewModels;
 using ReactiveUI;
 using System;
 using System.Collections.Generic;
@@ -13,7 +13,7 @@ using Xamarin.Forms.Xaml;
 namespace Demo_ReactiveUI_SearchDemo.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class EmployeesPage : BaseContentPage<EmployeeViewModel>
+    public partial class EmployeesPage : BaseContentPage<EmployeesViewModel>
     {
         public EmployeesPage()
         {

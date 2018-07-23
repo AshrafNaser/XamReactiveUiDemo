@@ -1,1 +1,1 @@
-C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Demo_ReactiveUI_SearchDemo.UWP.csproj;x86
+C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Demo_ReactiveUI_SearchDemo.UWP.csproj;x86

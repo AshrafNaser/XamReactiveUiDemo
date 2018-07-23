@@ -4,8 +4,8 @@
              x:Class="Demo_ReactiveUI_SearchDemo.Views.EmployeePage"
              xmlns:ui="clr-namespace:Demo_ReactiveUI_SearchDemo.Views"
              xmlns:rxui="clr-namespace:ReactiveUI.XamForms;assembly=ReactiveUI.XamForms"
-             xmlns:vm="clr-namespace:Demo_ReactiveUI_SearchDemo.ViewModel"
-             x:TypeArguments="vm:SingleEmployeeViewModel">
+             xmlns:vm="clr-namespace:Demo_ReactiveUI_SearchDemo.ViewModels"
+             x:TypeArguments="vm:EmployeeViewModel">
     <ContentPage.Content>
         <StackLayout>
             <Label Text="{Binding SelectedEmployee.Id}"

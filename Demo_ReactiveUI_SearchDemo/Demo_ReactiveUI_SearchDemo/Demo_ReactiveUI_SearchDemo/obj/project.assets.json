@@ -2639,11 +2639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ashraf Naser\\source\\repos\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Ashraf Naser\\Documents\\GitHub\\XamReactiveUiDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.csproj",
       "projectName": "Demo_ReactiveUI_SearchDemo",
-      "projectPath": "C:\\Users\\Ashraf Naser\\source\\repos\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.csproj",
+      "projectPath": "C:\\Users\\Ashraf Naser\\Documents\\GitHub\\XamReactiveUiDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.csproj",
       "packagesPath": "C:\\Users\\Ashraf Naser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ashraf Naser\\source\\repos\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\obj\\",
+      "outputPath": "C:\\Users\\Ashraf Naser\\Documents\\GitHub\\XamReactiveUiDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2656,7 +2656,7 @@
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://facegraphnuget.azurewebsites.net/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

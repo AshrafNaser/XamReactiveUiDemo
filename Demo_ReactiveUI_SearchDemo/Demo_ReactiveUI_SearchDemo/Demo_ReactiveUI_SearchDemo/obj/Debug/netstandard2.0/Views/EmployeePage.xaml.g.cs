@@ -14,7 +14,7 @@ namespace Demo_ReactiveUI_SearchDemo.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\EmployeePage.xaml")]
-    public partial class EmployeePage : global::Demo_ReactiveUI_SearchDemo.Views.BaseContentPage<global::Demo_ReactiveUI_SearchDemo.ViewModel.SingleEmployeeViewModel> {
+    public partial class EmployeePage : global::Demo_ReactiveUI_SearchDemo.Views.BaseContentPage<global::Demo_ReactiveUI_SearchDemo.ViewModels.EmployeeViewModel> {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {

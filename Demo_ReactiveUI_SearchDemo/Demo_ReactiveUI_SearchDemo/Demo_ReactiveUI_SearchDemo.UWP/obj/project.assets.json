@@ -14629,11 +14629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ashraf Naser\\source\\repos\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.UWP\\Demo_ReactiveUI_SearchDemo.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Ashraf Naser\\Documents\\GitHub\\XamReactiveUiDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.UWP\\Demo_ReactiveUI_SearchDemo.UWP.csproj",
       "projectName": "Demo_ReactiveUI_SearchDemo.UWP",
-      "projectPath": "C:\\Users\\Ashraf Naser\\source\\repos\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.UWP\\Demo_ReactiveUI_SearchDemo.UWP.csproj",
+      "projectPath": "C:\\Users\\Ashraf Naser\\Documents\\GitHub\\XamReactiveUiDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.UWP\\Demo_ReactiveUI_SearchDemo.UWP.csproj",
       "packagesPath": "C:\\Users\\Ashraf Naser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ashraf Naser\\source\\repos\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Ashraf Naser\\Documents\\GitHub\\XamReactiveUiDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -14647,14 +14647,14 @@
         "uap10.0.16299"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://facegraphnuget.azurewebsites.net/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Ashraf Naser\\source\\repos\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.csproj": {
-              "projectPath": "C:\\Users\\Ashraf Naser\\source\\repos\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.csproj"
+            "C:\\Users\\Ashraf Naser\\Documents\\GitHub\\XamReactiveUiDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.csproj": {
+              "projectPath": "C:\\Users\\Ashraf Naser\\Documents\\GitHub\\XamReactiveUiDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo\\Demo_ReactiveUI_SearchDemo.csproj"
             }
           }
         }

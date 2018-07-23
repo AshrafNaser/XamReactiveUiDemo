@@ -1,4 +1,4 @@
-﻿using Demo_ReactiveUI_SearchDemo.ViewModel;
+﻿using Demo_ReactiveUI_SearchDemo.ViewModels;
 using Demo_ReactiveUI_SearchDemo.Views;
 using ReactiveUI;
 using Splat;
@@ -24,10 +24,10 @@ namespace Demo_ReactiveUI_SearchDemo
              
 
             //Register the views  
-            Locator.CurrentMutable.Register(() => new EmployeesPage(), typeof(IViewFor<EmployeeViewModel>));
-            Locator.CurrentMutable.Register(() => new EmployeePage(), typeof(IViewFor<SingleEmployeeViewModel>));
+            Locator.CurrentMutable.Register(() => new EmployeesPage(), typeof(IViewFor<EmployeesViewModel>));
+            Locator.CurrentMutable.Register(() => new EmployeePage(), typeof(IViewFor<EmployeeViewModel>));
 
-            this.Router.NavigateAndReset.Execute(new EmployeeViewModel()).Subscribe();
+            this.Router.NavigateAndReset.Execute(new EmployeesViewModel()).Subscribe();
         }
 
         public Page CreateMainPage()

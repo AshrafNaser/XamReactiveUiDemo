@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=0916d4b8-732c-4937-b15e-fad5b2d4a205</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\Demo_ReactiveUI_SearchDemo.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\Demo_ReactiveUI_SearchDemo.UWP.exe">
       <PackagePath>entrypoint\Demo_ReactiveUI_SearchDemo.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ashraf Naser\.nuget\packages\reactiveui\8.3.1\lib\uap10.0.16299\ReactiveUI.dll">
@@ -562,127 +562,127 @@
     <AppxPackagedFile Include="C:\Users\Ashraf Naser\.nuget\packages\xamarin.forms\3.0.0.561731\lib\uap10.0\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\bin\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.dll">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\bin\Debug\netstandard2.0\Demo_ReactiveUI_SearchDemo.dll">
       <PackagePath>Demo_ReactiveUI_SearchDemo.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\Demo_ReactiveUI_SearchDemo.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\Demo_ReactiveUI_SearchDemo.UWP.xr.xml">
       <PackagePath>Demo_ReactiveUI_SearchDemo.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
@@ -721,11 +721,11 @@
     <AppxPackagedFile Include="C:\Users\Ashraf Naser\.nuget\packages\xamarin.forms\3.0.0.561731\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ashraf Naser\source\repos\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\Core\Demo_ReactiveUI_SearchDemo.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Ashraf Naser\Documents\GitHub\XamReactiveUiDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo\Demo_ReactiveUI_SearchDemo.UWP\bin\x86\Debug\Core\Demo_ReactiveUI_SearchDemo.UWP.exe">
       <PackagePath>Demo_ReactiveUI_SearchDemo.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
