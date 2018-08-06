@@ -350,7 +350,7 @@ this class going to be responsible for associating ViewModel with the View.
 		}
 	}
 ```
-## last but not least
+## Last but not least
 # AppBootsrapper
  
 **at the root of our application we are goinng to find the AppBootsrapper class**
@@ -384,7 +384,7 @@ this class going to be responsible for associating ViewModel with the View.
         }
     }
 ```
-# at the very end  
+# At the very end  
 in the constructor of App.xaml.cs do not forget
 to use CreateMainPage() Method we declared previously at AppBootsrapper.
   
