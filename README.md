@@ -1,6 +1,6 @@
 # ReactiveUI with Xamarin.Forms
 
-[ReactiveUI](https://github.com/reactiveui/reactiveui) is a composable, cross-platform model-view-viewmodel framework inspired by functional reactive programming and we are going to see this powerful framework intact with Xamarin.Forms.
+[ReactiveUI](https://github.com/reactiveui/reactiveui) is a composable, cross-platform Model-View-ViewModel framework inspired by functional reactive programming and we are going to see this powerful framework intact with Xamarin.Forms.
 ## What we built
 **Search App** searches on a list of employees using their IDs,
 that also you can select an employee from the list to show his full information in a new page. 
@@ -19,7 +19,7 @@ this sample demonstrates several features of the framework to get you ready to b
 * [When Any](https://reactiveui.net/docs/handbook/when-any/)
 
  # Dependencies
-  **inorder to start using ReactiveUI features you have to install the following NuGet packages**
+  **in order to start using ReactiveUI features you have to install the following NuGet packages**
  * [reactiveui](https://www.nuget.org/packages/reactiveui) 
  * [ReactiveUI.Events.XamForms](https://www.nuget.org/packages/ReactiveUI.Events.XamForms/) 
  * [ReactiveUI.XamForms](https://www.nuget.org/packages/ReactiveUI.XamForms/)
@@ -124,7 +124,7 @@ this sample demonstrates several features of the framework to get you ready to b
                //state is continually changing in response to user actions and application events so 
                //this.WhenAnyValue: help you work with properties as an observable stream
                //in the following example this.WhenAnyValue will watch the  properties 
-               //whenever it chnages  it will gonna perform a certain action. 
+               //whenever it changes  it will gonna perform a certain action. 
 
             this.WhenAnyValue(vm => vm.SearchText).Throttle(TimeSpan.FromMilliseconds(100))
             .Where(x => !string.IsNullOrEmpty(x)).Subscribe(vm =>
@@ -214,7 +214,7 @@ this sample demonstrates several features of the framework to get you ready to b
         public EmployeeViewModel(EmployeeModel employee)
         {
             //setting the Selected Employee value with the 
-            //employee object coming from the ctor throughout the navigation.
+            //employee object coming from the constructor throughout the navigation.
             SelectedEmployee = employee;
         }
 
@@ -353,7 +353,7 @@ this class going to be responsible for associating ViewModel with the View.
 ## Last but not least
 # AppBootsrapper
  
-**at the root of our application we are goinng to find the AppBootsrapper class**
+**at the root of our application we are going to find the AppBootsrapper class**
 **where we will perform all the initial setup for our app such as registering services and routing to perform navigation**,
 **AppBootsrapper will inherit and implement [IScreen](https://reactiveui.net/api/reactiveui/iscreen/)**
  
@@ -421,7 +421,7 @@ to use CreateMainPage() Method we declared previously at AppBootsrapper.
  
  ## Acknowledgments
 
-* Xamarin.Forms Vesrsion 3.1.0.697729
+* Xamarin.Forms version 3.1.0.697729
 * Visual Studio 2017 version 15.7
 * Code Sharing Strategy: .NET Standard
 
